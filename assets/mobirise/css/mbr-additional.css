@@ -735,6 +735,18 @@ h6,
 #menu-0 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#menu-0 .link:hover,
+#menu-0 .link:focus {
+  color: #c0a375;
+}
+#menu-0 .dropdown-item:hover::before,
+#menu-0 .dropdown-item:focus::before {
+  background: #c0a375;
+}
+#menu-0 .dropdown-item:hover,
+#menu-0 .dropdown-item:focus {
+  color: #3d8eb9;
+}
 #msg-box4-4 H3 {
   text-align: left;
   color: #ffffff;
@@ -759,22 +771,22 @@ h6,
   color: #3d8eb9;
 }
 #features4-5 .iconbox {
-  background-color: #cccccc;
-  border-color: #cccccc;
+  background-color: #f2f2f2;
+  border-color: #f2f2f2;
 }
 #features4-8 .card-subtitle {
   color: #3d8eb9;
 }
 #features4-8 .iconbox {
-  background-color: #cccccc;
-  border-color: #cccccc;
+  background-color: #f2f2f2;
+  border-color: #f2f2f2;
 }
 #features4-11 .card-subtitle {
   color: #3d8eb9;
 }
 #features4-11 .iconbox {
-  background-color: #cccccc;
-  border-color: #cccccc;
+  background-color: #f2f2f2;
+  border-color: #f2f2f2;
 }
 #header3-13 .mbr-section-title,
 #header3-13 .mbr-section-subtitle {
