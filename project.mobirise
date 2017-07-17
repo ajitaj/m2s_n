@@ -230,7 +230,7 @@
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#efefef",
-            "showMeta": true
+            "showMeta": false
           },
           "title": "Features List&nbsp;",
           "meta": "By John Smith posted July 20, 2016"
@@ -674,7 +674,7 @@
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#efefef",
-            "showMeta": true
+            "showMeta": false
           },
           "title": "Photo Gallery",
           "meta": "By John Smith posted July 20, 2016"
